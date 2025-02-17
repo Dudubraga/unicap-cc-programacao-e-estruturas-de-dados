@@ -1,6 +1,6 @@
-package Arvores.ClassesExtra.Cadastros;
-import Arvores.ArvoreBinBusca.ABB;
-import Arvores.ClassesExtra.Dados.Produto;
+package ClassesExtra.Cadastros;
+import ArvoreBinBusca.ABB;
+import ClassesExtra.Dados.Produto;
 
 public class CadastroProduto {
     private ABB<Produto> dados;

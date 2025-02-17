@@ -1,4 +1,4 @@
-package Arvores.ArvoreBPlus;
+package ArvoreBPlus;
 
 public class ABPlus {
     

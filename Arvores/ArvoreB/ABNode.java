@@ -1,4 +1,4 @@
-package Arvores.ArvoreB;
+package ArvoreB;
 
 @SuppressWarnings("FieldMayBeFinal")
 class ABNode {

@@ -1,4 +1,4 @@
-package Arvores.ClassesExtra.TADStack;
+package ClassesExtra.TADStack;
 
 class StackNode <T> {
     private T info;

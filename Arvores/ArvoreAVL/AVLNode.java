@@ -1,4 +1,4 @@
-package Arvores.ArvoreAVL;
+package ArvoreAVL;
 
 @SuppressWarnings("unused")
 public class AVLNode<T extends Comparable<T>> {

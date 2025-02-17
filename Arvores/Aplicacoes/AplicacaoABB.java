@@ -1,6 +1,6 @@
-package Arvores.Aplicacoes;
-import Arvores.ClassesExtra.Cadastros.CadastroProduto;
-import Arvores.ClassesExtra.Dados.Produto;
+package Aplicacoes;
+import ClassesExtra.Cadastros.CadastroProduto;
+import ClassesExtra.Dados.Produto;
 import java.util.Scanner;
 
 public class AplicacaoABB {

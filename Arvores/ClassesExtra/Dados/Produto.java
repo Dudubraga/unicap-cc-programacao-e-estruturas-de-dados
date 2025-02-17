@@ -1,4 +1,4 @@
-package Arvores.ClassesExtra.Dados;
+package ClassesExtra.Dados;
 
 public class Produto implements Comparable <Produto>{
     private String codigo;

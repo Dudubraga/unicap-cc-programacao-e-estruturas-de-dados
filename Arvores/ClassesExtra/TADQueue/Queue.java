@@ -1,4 +1,4 @@
-package Arvores.ClassesExtra.TADQueue;
+package ClassesExtra.TADQueue;
 public class Queue <T> {
     private QueueNode<T> first;
     private QueueNode<T> last;

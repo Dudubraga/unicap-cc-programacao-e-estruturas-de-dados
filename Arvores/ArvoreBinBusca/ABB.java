@@ -1,6 +1,6 @@
-package Arvores.ArvoreBinBusca;
-import Arvores.ClassesExtra.TADQueue.Queue;
-import Arvores.ClassesExtra.TADStack.Stack;
+package ArvoreBinBusca;
+import ClassesExtra.TADQueue.Queue;
+import ClassesExtra.TADStack.Stack;
 
 public class ABB<T extends Comparable<T>> {
     private ABBNode<T> raiz;

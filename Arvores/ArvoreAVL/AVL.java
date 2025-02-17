@@ -1,6 +1,6 @@
-package Arvores.ArvoreAVL;
-import Arvores.ClassesExtra.TADQueue.Queue;
-import Arvores.ClassesExtra.TADStack.Stack;
+package ArvoreAVL;
+import ClassesExtra.TADQueue.Queue;
+import ClassesExtra.TADStack.Stack;
 
 public class AVL<T extends Comparable<T>> {
     private AVLNode<T> root;

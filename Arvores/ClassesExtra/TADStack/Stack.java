@@ -1,4 +1,4 @@
-package Arvores.ClassesExtra.TADStack;
+package ClassesExtra.TADStack;
 public class Stack<T> {
     private StackNode<T> top;
 

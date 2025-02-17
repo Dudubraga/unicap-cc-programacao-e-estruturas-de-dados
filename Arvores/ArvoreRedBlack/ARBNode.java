@@ -1,4 +1,4 @@
-package Arvores.ArvoreRedBlack;
+package ArvoreRedBlack;
 
 public class ARBNode<T extends Comparable<T>> {
     private T info;

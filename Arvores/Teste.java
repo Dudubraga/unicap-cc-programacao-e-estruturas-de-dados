@@ -1,10 +1,10 @@
-import Arvores.ArvoreAVL.AVL;
-import Arvores.ArvoreB.AB;
-import Arvores.ArvoreBinBusca.ABB;
-import Arvores.ArvoreRedBlack.ARB;
-// import Arvores.ClassesExtra.Dados.*;
-// import Arvores.ClassesExtra.TADQueue.Queue;
-// import Arvores.ClassesExtra.TADStack.Stack;
+import ArvoreAVL.AVL;
+import ArvoreB.AB;
+import ArvoreBinBusca.ABB;
+import ArvoreRedBlack.ARB;
+// import ClassesExtra.Dados.*;
+// import ClassesExtra.TADQueue.Queue;
+// import ClassesExtra.TADStack.Stack;
 
 public class Teste {
     public static void main(String[] args) {

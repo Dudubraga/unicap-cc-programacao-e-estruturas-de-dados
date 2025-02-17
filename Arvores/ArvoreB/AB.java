@@ -1,6 +1,5 @@
-package Arvores.ArvoreB;
-
-import Arvores.ClassesExtra.TADQueue.Queue;
+package ArvoreB;
+import ClassesExtra.TADQueue.Queue;
 
 @SuppressWarnings("ManualArrayToCollectionCopy")
 public class AB {

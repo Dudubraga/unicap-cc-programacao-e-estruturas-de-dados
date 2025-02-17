@@ -1,4 +1,4 @@
-package Arvores.ClassesExtra.TADQueue;
+package ClassesExtra.TADQueue;
 
 class QueueNode <T> {
     private T info;

@@ -1,6 +1,6 @@
-package Arvores.ArvoreRedBlack;
-import Arvores.ClassesExtra.TADQueue.Queue;
-import Arvores.ClassesExtra.TADStack.Stack;
+package ArvoreRedBlack;
+import ClassesExtra.TADQueue.Queue;
+import ClassesExtra.TADStack.Stack;
 
 @SuppressWarnings("unused")
 public class ARB<T extends Comparable<T>> {

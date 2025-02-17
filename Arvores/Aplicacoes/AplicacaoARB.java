@@ -1,5 +1,5 @@
-package Arvores.Aplicacoes;
-import Arvores.ArvoreRedBlack.ARB;
+package Aplicacoes;
+import ArvoreRedBlack.ARB;
 import java.util.Scanner;
 
 public class AplicacaoARB {

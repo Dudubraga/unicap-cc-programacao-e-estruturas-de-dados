@@ -1,5 +1,5 @@
-package Arvores.Aplicacoes;
-import Arvores.ArvoreB.AB;
+package Aplicacoes;
+import ArvoreB.AB;
 import java.util.Scanner;
 
 public class AplicacaoAB {

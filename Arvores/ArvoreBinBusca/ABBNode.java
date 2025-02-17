@@ -1,4 +1,4 @@
-package Arvores.ArvoreBinBusca;
+package ArvoreBinBusca;
 
 public class ABBNode<T extends Comparable<T>> {
     private ABBNode<T> esq;
