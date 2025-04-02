@@ -1,7 +1,8 @@
-package com.atividade;
+package DFS;
+
 import java.util.LinkedList;
 
-public class Solucao {
+public class Implementacao {
     private static final int BRANCO = -1;
     private static final int CINZA = 0;
     private static final int PRETO = 1;
@@ -14,7 +15,7 @@ public class Solucao {
 
     private LinkedList< LinkedList<Integer> > grafo;
 
-    public Solucao(LinkedList< LinkedList<Integer> > grafo){
+    public Implementacao(LinkedList< LinkedList<Integer> > grafo){
         this.grafo = grafo;
         int n = grafo.size();
         ante = new int[n];
@@ -49,11 +50,3 @@ public class Solucao {
     }
 }
 
-/* 
-vértices = [0, 1, 2, 3, 4, 5]
-cor = [1, 1, 1, 1, 1, 1]
-i = [1, 2, 3, 4, 7]
-f = [12, 11, 10, 9, 6, 8]
-ante = [-2, 0, 1, 2, 3, 3]
-tempo = 12
-*/
